@@ -1,0 +1,24 @@
+{
+  "name": "json-rw",
+  "version": "1.0.0",
+  "description": "JSON.read and JSON.write",
+  "main": "index.js",
+  "scripts": {
+    "test": "bash test.bash"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PopeNobody/json-rw.git"
+  },
+  "keywords": [
+    "JSON",
+    "stringify",
+    "filesystem"
+  ],
+  "author": "nobody@copblock.app",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PopeNobody/json-rw/issues"
+  },
+  "homepage": "https://github.com/PopeNobody/json-rw#readme"
+}
